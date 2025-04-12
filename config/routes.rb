@@ -21,7 +21,6 @@ Rails.application.routes.draw do
 
   # delete "/products/:id", to: "products#destroy"
 
-
-
+  root "products#index"
 
 end
