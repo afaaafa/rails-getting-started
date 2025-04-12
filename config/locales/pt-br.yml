@@ -1,0 +1,6 @@
+pt-br:
+  hello: "Olá mundo"
+  products:
+    index:
+      title: "Produtos"
+      about: "Sobre nós"
